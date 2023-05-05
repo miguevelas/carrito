@@ -104,6 +104,8 @@
     justify-content:space-around;
     align-items: 70%;
     margin: 10px;
+    color: #000;
+    font-size: 25px;
 }
 
 .modal-container > div >img{
@@ -119,7 +121,10 @@
     padding-top: 20px;
 }
 
-
+/* segunda parte */
+.delete-product{
+    cursor:pointer;
+}
 
 
 
